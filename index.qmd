@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "Gaby Chavez"
 format:
   html:
     page-layout: full
@@ -14,16 +14,15 @@ format:
   </div>
 
   <!-- Nombre y cargo -->
-  <h1>Tu Nombre Aquí</h1>
+  <h1> Gabriela Chavez Resendiz </h1>
   <p class="subtitle">
-    Estudiante de Licenciatura-Maestría-Doctorado · Universidad  Autónoma de Querétaro
+    Estudiante de Licenciatura en Microbiología · Universidad  Autónoma de Querétaro
   </p>
 
   <!-- Bio corta -->
   <p>
-    Bienvenido/a a mi sitio personal. Soy estudiante de [tu área de estudio],
-    con interés en [tema 1], [tema 2] y [tema 3]. Actualmente trabajo en
-    [proyecto o tesis] bajo la supervisión del Dr. [Nombre].
+    Bienvenido/a a mi sitio personal. Soy estudiante de Microbiología,
+    con interés en Inmunología, Microbiología Industrial y Parasitología. 
   </p>
 
   <!-- Botones de acción -->
@@ -46,20 +45,18 @@ format:
   <hr class="section-divider" />
 
   <p>
-    Describe aquí tu trayectoria académica de manera más detallada. Puedes
-    hablar de tu institución, tu área de especialización y qué te motivó a
-    elegirla. Este espacio es tuyo para contar tu historia de forma auténtica.
+   El porqué de mi elección hacia esta carrera fue por el interés que me generó una clase de laboratorio de biología en la preparatoria sobre la visualización de microorganismos :).
+   La microbiología es una disciplina que se encuentra presente en todos lados y eso es algo que me parece fascinante
   </p>
 
   <p>
-    Actualmente me encuentro en el [año] año de mi [Licenciatura / Maestría /
-    Doctorado] en [área]. Mis intereses de investigación incluyen:
+    Actualmente me encuentro en el [3] año de mi Licenciatura. Mis intereses de investigación incluyen:
   </p>
 
   <ul style="color: #7f8c8d; font-size: 0.95rem;">
-    <li>Interés de investigación 1</li>
-    <li>Interés de investigación 2</li>
-    <li>Interés de investigación 3</li>
+    <li>Inmunología</li>
+    <li>Microbiología Veterinaria </li>
+    <li>Inocuidad de alimentos</li>
   </ul>
 
   <!-- Afiliación / instituciones -->
@@ -68,8 +65,8 @@ format:
 
   <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem;">
     <div>
-      <strong style="font-size: 0.95rem;">Nombre de la Universidad</strong><br>
-      <span style="font-size: 0.85rem; color: #7f8c8d;">Departamento / Facultad · Ciudad, País</span>
+      <strong style="font-size: 0.95rem;">Universidad Autonóma de Querétaro</strong><br>
+      <span style="font-size: 0.85rem; color: #7f8c8d;">Facultad de Ciencias Naturales · Querétaro, MX</span>
     </div>
   </div>
 
